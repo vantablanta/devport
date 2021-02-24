@@ -1,4 +1,4 @@
-<template>
+<template id="contact">
     <div> 
         <div class="topnave">
             <a href=""><i class="fab fa-github"></i></a>
